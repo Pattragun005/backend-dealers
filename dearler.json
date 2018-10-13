@@ -1,0 +1,79 @@
+{
+    "dealer": [{
+            "id_dealer": 1,
+            "username_dealer": "nan",
+            "password_dealer": "12345678",
+            "email_dealer": "s5830213012@phuket.psu.ac.th",
+            "company_name": "pop.co.th",
+            "type": "fitness",
+            "tel": "01222555",
+            "address": "bo.23 m.2",
+            "status": "accept",
+            "payment": [{
+                "id_payment": "1",
+                "card_number": "1552155",
+                "exp_date": "15/2/2019",
+                "cvv": "1455552cd"
+            }],
+            "detail_dealer": [{
+                "id_detail": "1",
+                "menu_food": [{
+                        "id_food": "1",
+                        "name_food": "apples",
+                        "price": "59"
+                    },
+                    {
+                        "id_food": "2",
+                        "name_food": "cheese",
+                        "price": "29"
+                    }
+                ],
+                "course_fitness": [{
+                    "id_fitness": "1",
+                    "name_fitness": "fitness",
+                    "price": "259"
+                }]
+            }]
+
+        },
+        {
+            "id_dealer": 2,
+            "username_dealer": "pop",
+            "password_dealer": "123456789",
+            "email_dealer": "s5830213011@phuket.psu.ac.th",
+            "company_name": "pop.co.th",
+            "type": "restaurant",
+            "tel": "01222555",
+            "address": "bo.20 m.1",
+            "status": "accept",
+            "payment": [{
+                "id_payment": "1",
+                "card_number": "256544",
+                "exp_date": "10/6/2021",
+                "cvv": "14452247ka"
+            }],
+            "detail_dealer": [{
+                "id_detail": "1",
+                "menu_food": [{
+                        "id_food": "1",
+                        "name_food": "apple",
+                        "price": "50"
+                    },
+                    {
+                        "id_food": "2",
+                        "name_food": "cheese",
+                        "price": "49"
+                    }
+                ],
+                "course_fitness": [{
+                    "id_fitness": "1",
+                    "name_fitness": "fitness",
+                    "price": "159"
+                }]
+            }]
+
+        }
+
+
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "users": [
+        {
+            "id_user":1,
+            "username_user":"gunnie",
+            "password_user":"12345",
+            "email_user" : "s5830213005@phuket.psu.ac.th",
+            "score": "25",
+             "current_score" :"10",
+             "Total_score" : "35" 
+        },
+        {
+            "id_user":2,
+            "username_user":"far",
+            "password_user":"12345",
+            "email_user" : "s5830213003@phuket.psu.ac.th",
+            "score": "11",
+             "current_score" :"23",
+             "Total_score" : "34" 
+        }
+    ]
+    
+}
